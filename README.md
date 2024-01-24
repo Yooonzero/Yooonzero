@@ -1,4 +1,6 @@
-- 안녕하세요 👋Junior Back-End Developer 권윤영 입니다 :)
+안녕하세요 👋
+
+Junior Back-End Developer 권윤영 입니다 :)
 
 <!---
 - 👀 I’m interested in ...
